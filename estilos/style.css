@@ -36,8 +36,9 @@ section#login > div#imagem{
     display: block;
     background: #5f2c82 url(../imagem/pexels-lucas-minniti-10552563.jpg)no-repeat;
     background-size: cover;
-    background-position: center center;
+    background-position: center;
     height: 200px;
+    
 }
 section#login > div#formulario{
     display: block;
