@@ -7,6 +7,7 @@
 
 section#login{
     width: 80vw;
+    height: 280px;
 }
 section#login > div#imagem{
     float: left;
@@ -33,6 +34,6 @@ section#login > div#imagem{
 }
 section#login > div#formunlario{
     float: left;
-    width: 50%;
+    width: 70%;
 }
 }
